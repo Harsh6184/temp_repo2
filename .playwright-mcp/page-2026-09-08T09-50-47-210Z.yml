@@ -1,0 +1,242 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: https://phptravels.net/
+          - img "PHPTARVELS" [ref=e7]
+        - navigation [ref=e8]:
+          - button "Services expand_more" [ref=e10] [cursor=pointer]:
+            - generic [ref=e16]: Services
+            - generic [ref=e17]: expand_more
+          - button "Company expand_more" [ref=e19] [cursor=pointer]:
+            - generic [ref=e23]: Company
+            - generic [ref=e24]: expand_more
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - button "USD" [ref=e29] [cursor=pointer]
+          - button "English flag en" [ref=e38] [cursor=pointer]:
+            - img "English flag" [ref=e39]
+            - generic [ref=e40]: en
+        - link "login Login" [ref=e42] [cursor=pointer]:
+          - /url: https://phptravels.net/login
+          - generic [ref=e43]: login
+          - generic [ref=e44]: Login
+        - button "person_add Signup expand_more" [ref=e46] [cursor=pointer]:
+          - generic [ref=e47]: person_add
+          - generic [ref=e48]: Signup
+          - generic [ref=e49]: expand_more
+  - generic [ref=e50]:
+    - img "Dream vacation destination" [ref=e52]
+    - generic [ref=e58]:
+      - generic [ref=e60] [cursor=pointer]:
+        - generic [ref=e64]:
+          - generic [ref=e65]: Destination or Hotel Name
+          - generic [ref=e66]: Search By City
+        - generic [ref=e67]: expand_more
+      - generic [ref=e68]:
+        - generic [ref=e70] [cursor=pointer]:
+          - generic: Check-in
+          - textbox "Check-in Date" [ref=e71]: Sep 08, 2026
+        - generic [ref=e76] [cursor=pointer]:
+          - generic: Check-out
+          - textbox "Check-out Date" [ref=e77]: Sep 09, 2026
+      - generic [ref=e80] [cursor=pointer]:
+        - generic [ref=e83]:
+          - generic [ref=e84]: Guests & Rooms
+          - generic [ref=e85]: 2 Guests, 1 Room
+        - generic [ref=e86]: expand_more
+      - generic [ref=e89] [cursor=pointer]:
+        - generic [ref=e90]: flag
+        - generic [ref=e91]:
+          - generic [ref=e92]: Nationality
+          - generic [ref=e93]: Select Nationality
+        - generic [ref=e94]: expand_more
+      - button "Search Hotels" [ref=e96] [cursor=pointer]
+  - contentinfo [ref=e102]:
+    - generic [ref=e104]:
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - link [ref=e108] [cursor=pointer]:
+            - /url: https://phptravels.net/
+            - img "PHPTARVELS" [ref=e109]
+          - paragraph [ref=e110]: Your trusted travel partner for unforgettable journeys. Discover the world with our comprehensive booking services.
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - generic [ref=e113]: headset_mic
+            - generic [ref=e115]:
+              - paragraph [ref=e116]: 24/7 Support
+              - paragraph [ref=e117]: Always here to help
+          - generic [ref=e118]:
+            - link "Email Support" [ref=e119] [cursor=pointer]:
+              - /url: mailto:email@agency.com
+              - generic [ref=e120]: mail
+            - link "WhatsApp Support" [ref=e121] [cursor=pointer]:
+              - /url: https://wa.me/123456789
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - heading "Company" [level=4] [ref=e127]
+          - list [ref=e128]:
+            - listitem [ref=e129]:
+              - link "Contact us" [ref=e130] [cursor=pointer]:
+                - /url: https://phptravels.net/page/contact-us
+            - listitem [ref=e131]:
+              - link "About us" [ref=e132] [cursor=pointer]:
+                - /url: https://phptravels.net/page/about-us
+            - listitem [ref=e133]:
+              - link "Cookies Policy" [ref=e134] [cursor=pointer]:
+                - /url: https://phptravels.net/page/cookies-policy
+            - listitem [ref=e135]:
+              - link "Privacy Policy" [ref=e136] [cursor=pointer]:
+                - /url: https://phptravels.net/page/privacy-policy
+            - listitem [ref=e137]:
+              - link "Become a Supplier" [ref=e138] [cursor=pointer]:
+                - /url: https://phptravels.net/page/become-a-supplier
+            - listitem [ref=e139]:
+              - link "Terms of Use" [ref=e140] [cursor=pointer]:
+                - /url: https://phptravels.net/page/terms-of-use
+        - generic [ref=e141]:
+          - heading "Support" [level=4] [ref=e142]
+          - list [ref=e143]:
+            - listitem [ref=e144]:
+              - link "Affiliate Program" [ref=e145] [cursor=pointer]:
+                - /url: https://phptravels.net/page/affiliate-program
+            - listitem [ref=e146]:
+              - link "Investors" [ref=e147] [cursor=pointer]:
+                - /url: https://phptravels.net/page/investors
+            - listitem [ref=e148]:
+              - link "Careers and Jobs" [ref=e149] [cursor=pointer]:
+                - /url: https://phptravels.net/page/careers-and-jobs
+            - listitem [ref=e150]:
+              - link "How to Book" [ref=e151] [cursor=pointer]:
+                - /url: https://phptravels.net/page/how-to-book
+            - listitem [ref=e152]:
+              - link "File a Claim" [ref=e153] [cursor=pointer]:
+                - /url: https://phptravels.net/page/file-a-claim
+            - listitem [ref=e154]:
+              - link "Refund Policy" [ref=e155] [cursor=pointer]:
+                - /url: https://phptravels.net/page/refund-policy
+        - generic [ref=e156]:
+          - heading "Explore" [level=4] [ref=e157]
+          - list [ref=e158]:
+            - listitem [ref=e159]:
+              - link "Best Travel Deals" [ref=e160] [cursor=pointer]:
+                - /url: https://phptravels.net/page/best-travel-deals
+            - listitem [ref=e161]:
+              - link "Travel Documents" [ref=e162] [cursor=pointer]:
+                - /url: https://phptravels.net/page/travel-documents
+            - listitem [ref=e163]:
+              - link "Travel Insurance" [ref=e164] [cursor=pointer]:
+                - /url: https://phptravels.net/page/travel-insurance
+      - generic [ref=e165]:
+        - heading "Get In Touch" [level=4] [ref=e166]
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: location_on
+            - paragraph [ref=e170]: 71 St, Suite 900 San Francisco, United States
+          - generic [ref=e171]:
+            - generic [ref=e172]: call
+            - link "+123456789" [ref=e173] [cursor=pointer]:
+              - /url: tel:+123456789
+          - generic [ref=e174]:
+            - generic [ref=e175]: mail
+            - link "email@agency.com" [ref=e176] [cursor=pointer]:
+              - /url: mailto:email@agency.com
+          - generic [ref=e178]:
+            - link "Facebook" [ref=e179] [cursor=pointer]:
+              - /url: https://facebook.com/phptravels
+            - link "Twitter" [ref=e182] [cursor=pointer]:
+              - /url: https://twitter.com/phptravels
+            - link "Instagram" [ref=e185] [cursor=pointer]:
+              - /url: https://instagram.com/phptravels
+            - link "YouTube" [ref=e188] [cursor=pointer]:
+              - /url: https://youtube.com/@phptravels
+            - link "LinkedIn" [ref=e191] [cursor=pointer]:
+              - /url: https://linkedin.com/company/phptravels
+    - generic [ref=e196]:
+      - generic [ref=e197]:
+        - paragraph [ref=e198]: © 2026 PHPTARVELS. All rights reserved.
+        - paragraph [ref=e199]:
+          - text: Powered by
+          - link "PHPTRAVELS" [ref=e200] [cursor=pointer]:
+            - /url: https://phptravels.com
+      - generic [ref=e201]:
+        - link "Privacy Policy" [ref=e202] [cursor=pointer]:
+          - /url: https://phptravels.net/page/privacy-policy
+        - generic [ref=e203]:
+          - generic [ref=e204]: •
+          - link "Terms of Use" [ref=e205] [cursor=pointer]:
+            - /url: https://phptravels.net/page/terms-of-use
+        - generic [ref=e206]:
+          - generic [ref=e207]: •
+          - link "Cookies Policy" [ref=e208] [cursor=pointer]:
+            - /url: https://phptravels.net/page/cookies-policy
+        - generic [ref=e209]:
+          - generic [ref=e210]: •
+          - link "Refund Policy" [ref=e211] [cursor=pointer]:
+            - /url: https://phptravels.net/page/refund-policy
+      - generic [ref=e212]:
+        - generic [ref=e213]:
+          - generic [ref=e214]: verified_user
+          - generic [ref=e215]: SSL Secure
+        - link "verified IATA" [ref=e216] [cursor=pointer]:
+          - /url: https://iata.co
+          - generic [ref=e217]: verified
+          - generic [ref=e218]: IATA
+        - generic [ref=e219]:
+          - generic [ref=e220]: credit_card
+          - generic [ref=e221]: PCI DSS
+  - generic [ref=e261]:
+    - generic [ref=e263]:
+      - generic [ref=e264]: search
+      - textbox "Search By City" [active] [ref=e265]: Dubai
+    - generic [ref=e268]:
+      - generic [ref=e269] [cursor=pointer]:
+        - generic [ref=e270]: location_on
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - generic [ref=e274]: Dubai
+            - generic [ref=e275]: City
+          - generic [ref=e276]: Dubai, United Arab Emirates
+      - generic [ref=e277] [cursor=pointer]:
+        - generic [ref=e278]: hotel
+        - generic [ref=e280]:
+          - generic [ref=e281]:
+            - generic [ref=e282]: Address Downtown Dubai
+            - generic [ref=e283]: Hotel
+          - generic [ref=e284]: Dubai
+      - generic [ref=e285] [cursor=pointer]:
+        - generic [ref=e286]: hotel
+        - generic [ref=e288]:
+          - generic [ref=e289]:
+            - generic [ref=e290]: Armani Hotel Dubai
+            - generic [ref=e291]: Hotel
+          - generic [ref=e292]: Dubai
+      - generic [ref=e293] [cursor=pointer]:
+        - generic [ref=e294]: hotel
+        - generic [ref=e296]:
+          - generic [ref=e297]:
+            - generic [ref=e298]: JW Marriott Marquis Dubai
+            - generic [ref=e299]: Hotel
+          - generic [ref=e300]: Dubai
+      - generic [ref=e301] [cursor=pointer]:
+        - generic [ref=e302]: hotel
+        - generic [ref=e304]:
+          - generic [ref=e305]:
+            - generic [ref=e306]: One&Only The Palm Dubai
+            - generic [ref=e307]: Hotel
+          - generic [ref=e308]: Dubai
+      - generic [ref=e309] [cursor=pointer]:
+        - generic [ref=e310]: hotel
+        - generic [ref=e312]:
+          - generic [ref=e313]:
+            - generic [ref=e314]: Palazzo Versace Dubai
+            - generic [ref=e315]: Hotel
+          - generic [ref=e316]: Dubai
+      - generic [ref=e317] [cursor=pointer]:
+        - generic [ref=e318]: hotel
+        - generic [ref=e320]:
+          - generic [ref=e321]:
+            - generic [ref=e322]: Waldorf Astoria Dubai
+            - generic [ref=e323]: Hotel
+          - generic [ref=e324]: Dubai

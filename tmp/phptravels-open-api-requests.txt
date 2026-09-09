@@ -1,0 +1,1 @@
+1. [GET] https://phptravels.net/api/stays/featured?currency=USD => [200] 
