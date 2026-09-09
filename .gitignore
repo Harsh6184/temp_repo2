@@ -1,6 +1,7 @@
 
 # Playwright
 .env
+.mcp.json
 node_modules/
 /test-results/
 /playwright-report/
